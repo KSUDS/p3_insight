@@ -1,4 +1,4 @@
-# Project 4: Proving your point
+# Project 5: Proving your point using SQL
 
 ## Background
 
